@@ -1,5 +1,5 @@
 //
-//  APIkeys .swift
+//  APIkeys.swift
 //  GitExample
 //
 //  Created by Manny Yusuf on 2/8/19.
@@ -8,6 +8,6 @@
 
 import Foundation
 
-class apikeys {
+class apiKeys {
     
 }

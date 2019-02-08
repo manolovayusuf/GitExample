@@ -12,7 +12,7 @@
 		2EAC64B5220DDA9000ADB1A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EAC64B3220DDA9000ADB1A5 /* Main.storyboard */; };
 		2EAC64B7220DDA9200ADB1A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EAC64B6220DDA9200ADB1A5 /* Assets.xcassets */; };
 		2EAC64BA220DDA9200ADB1A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EAC64B8220DDA9200ADB1A5 /* LaunchScreen.storyboard */; };
-		2EAC64C2220DDD4300ADB1A5 /* APIkeys .swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EAC64C1220DDD4300ADB1A5 /* APIkeys .swift */; };
+		2EAC64C4220DDF8500ADB1A5 /* APIkeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EAC64C3220DDF8500ADB1A5 /* APIkeys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		2EAC64B6220DDA9200ADB1A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EAC64B9220DDA9200ADB1A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2EAC64BB220DDA9200ADB1A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2EAC64C1220DDD4300ADB1A5 /* APIkeys .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "APIkeys .swift"; sourceTree = "<group>"; };
+		2EAC64C3220DDF8500ADB1A5 /* APIkeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIkeys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 		2EAC64AE220DDA9000ADB1A5 /* GitExample */ = {
 			isa = PBXGroup;
 			children = (
-				2EAC64C1220DDD4300ADB1A5 /* APIkeys .swift */,
+				2EAC64C3220DDF8500ADB1A5 /* APIkeys.swift */,
 				2EAC64B1220DDA9000ADB1A5 /* ViewController.swift */,
 				2EAC64AF220DDA9000ADB1A5 /* AppDelegate.swift */,
 				2EAC64B3220DDA9000ADB1A5 /* Main.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2EAC64C2220DDD4300ADB1A5 /* APIkeys .swift in Sources */,
+				2EAC64C4220DDF8500ADB1A5 /* APIkeys.swift in Sources */,
 				2EAC64B2220DDA9000ADB1A5 /* ViewController.swift in Sources */,
 				2EAC64B0220DDA9000ADB1A5 /* AppDelegate.swift in Sources */,
 			);
